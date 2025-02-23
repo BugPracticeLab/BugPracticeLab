@@ -14,6 +14,7 @@ Welcome to the **Bug Practice Repo**! This repository is designed for beginners 
 5. Submit the issue.
 
 ## ⚠️ Important Note
+❗ **Always fork the repository before working on it.**
 ❗ **Do not create a pull request without first reporting an issue.**
 Every PR should be linked to a reported issue for proper tracking and organization.
 
