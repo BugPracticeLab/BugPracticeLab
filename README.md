@@ -3,11 +3,19 @@
 ## 🎯 Purpose
 Welcome to the **Bug Practice Repo**! This repository is designed for beginners to practice **reporting and fixing bugs** in a real-world GitHub workflow. If you are new to open-source contributions or software debugging, this is the perfect place to start!
 
-## 🚀 How It Works
-1. **Find a Bug**: Look for open issues labeled **"Beginner Bug"** or **"Good First Issue"**.
-2. **Report a Bug**: If you find a new issue, follow our bug reporting guidelines below.
-3. **Fix a Bug**: Pick an issue, fork the repo, and submit a Pull Request (PR) with your fix.
-4. **Get Feedback**: Reviewers will provide feedback and merge your changes once approved.
+## 📝 How to Report a Bug
+1. Navigate to the **[Issues](../../issues)** tab.
+2. Click **[New Issue](../../issues/new)**.
+3. Provide a clear **title** and **description** of the bug.
+4. Include:
+   - 🛠 **Steps to reproduce**
+   - ✅ **Expected behavior** vs. ❌ **Actual behavior**
+   - 📷 Screenshots or logs (if applicable)
+5. Submit the issue.
+
+## ⚠️ Important Note
+❗ **Do not create a pull request without first reporting an issue.**
+Every PR should be linked to a reported issue for proper tracking and organization.
 
 ## 🐞 How to Report a Bug
 To report a bug, go to the **Issues** tab and click **New Issue**. Use the following template:
