@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 <!--- Provide a general summary of the issue in the Title above -->
-<!-- Make sure that you've read through https://github.com/firstcontributions/first-contributions/issues/35892 and understand the design of this project. If you have questions about it, please write a comment in that issue. -->
+<!-- Make sure that you've read through  understand the design of this project. If you have questions about it, please write a comment in that issue. -->
 
 🐞 **Problem**
 <!--- Provide a detailed description of the change or addition you are proposing -->
