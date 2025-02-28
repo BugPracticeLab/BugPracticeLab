@@ -28,6 +28,7 @@ Welcome to the **Bug Practice Repo**! This repository is designed for beginners 
 ---
 
 ## 🔄 Step 3: Fork and Clone the Repository  
+Click [![Fork-This-Repo](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=BugPracticeLab&owner=%40me&name=BugFixPractice&description=My+clone+repository&visibility=private) to fork this repo. (or)
 1. Click the **Fork** button in the top-right corner of the repository.  
 2. Clone the forked repository to your local machine:  
    ```sh  
